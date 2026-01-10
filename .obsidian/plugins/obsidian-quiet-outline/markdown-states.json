@@ -1,0 +1,98 @@
+{
+  "测试.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 41
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-1"
+    ]
+  },
+  "Linux 环境编程.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "文件.md": {
+    "scroll": 155.125,
+    "cursor": {
+      "from": {
+        "line": 182,
+        "ch": 18
+      },
+      "to": {
+        "line": 182,
+        "ch": 18
+      }
+    },
+    "expandedKeys": [
+      "item-2-1",
+      "item-1-0",
+      "item-1-5",
+      "item-2-16"
+    ]
+  },
+  "文件IO.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 66
+      },
+      "to": {
+        "line": 14,
+        "ch": 66
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-1"
+    ]
+  },
+  "3_file_IO.md": {
+    "scroll": 5.286729857819905,
+    "cursor": {
+      "from": {
+        "line": 62,
+        "ch": 41
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  }
+}
