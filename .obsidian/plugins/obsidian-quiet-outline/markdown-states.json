@@ -44,40 +44,40 @@
     "expandedKeys": []
   },
   "文件.md": {
-    "scroll": 155.3228672985782,
+    "scroll": 416.2455357142857,
     "cursor": {
       "from": {
-        "line": 164,
+        "line": 490,
         "ch": 0
       },
       "to": {
-        "line": 164,
+        "line": 490,
         "ch": 0
       }
     },
     "expandedKeys": [
-      "item-2-1",
-      "item-1-0",
       "item-1-5",
-      "item-2-16"
+      "item-1-0",
+      "item-2-1",
+      "item-2-16",
+      "item-3-21",
+      "item-3-25",
+      "item-4-29"
     ]
   },
   "文件IO.md": {
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 14,
-        "ch": 66
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 14,
-        "ch": 66
+        "line": 0,
+        "ch": 0
       }
     },
-    "expandedKeys": [
-      "item-1-0",
-      "item-2-1"
-    ]
+    "expandedKeys": []
   },
   "3_file_IO.md": {
     "scroll": 5.286729857819905,
