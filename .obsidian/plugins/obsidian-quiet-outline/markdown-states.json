@@ -77,7 +77,13 @@
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-1",
+      "item-1-0",
+      "item-1-5",
+      "item-2-16",
+      "item-3-17"
+    ]
   },
   "3_file_IO.md": {
     "scroll": 5.286729857819905,
@@ -93,6 +99,31 @@
     },
     "expandedKeys": [
       "item-1-0"
+    ]
+  },
+  "标准IO.md": {
+    "scroll": 105.11789181692095,
+    "cursor": {
+      "from": {
+        "line": 141,
+        "ch": 2
+      },
+      "to": {
+        "line": 141,
+        "ch": 2
+      }
+    },
+    "expandedKeys": [
+      "item-2-1",
+      "item-1-0",
+      "item-2-5",
+      "item-1-20",
+      "item-2-21",
+      "item-2-24",
+      "item-2-33",
+      "item-2-43",
+      "item-2-46",
+      "item-1-8"
     ]
   }
 }
