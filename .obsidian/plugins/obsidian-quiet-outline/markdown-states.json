@@ -19,12 +19,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 0
+        "line": 2,
+        "ch": 15
       },
       "to": {
-        "line": 0,
-        "ch": 0
+        "line": 2,
+        "ch": 15
       }
     },
     "expandedKeys": []
@@ -79,10 +79,7 @@
     },
     "expandedKeys": [
       "item-2-1",
-      "item-1-0",
-      "item-1-5",
-      "item-2-16",
-      "item-3-17"
+      "item-1-0"
     ]
   },
   "3_file_IO.md": {
@@ -102,28 +99,39 @@
     ]
   },
   "标准IO.md": {
-    "scroll": 105.11789181692095,
+    "scroll": 857.6671836228288,
     "cursor": {
       "from": {
-        "line": 141,
-        "ch": 2
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 141,
-        "ch": 2
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": [
       "item-2-1",
       "item-1-0",
-      "item-2-5",
-      "item-1-20",
       "item-2-21",
-      "item-2-24",
+      "item-1-20",
       "item-2-33",
       "item-2-43",
-      "item-2-46",
-      "item-1-8"
+      "item-2-46"
     ]
+  },
+  "动态库与静态库.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }
