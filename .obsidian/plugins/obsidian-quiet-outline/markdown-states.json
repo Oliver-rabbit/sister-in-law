@@ -77,10 +77,7 @@
         "ch": 0
       }
     },
-    "expandedKeys": [
-      "item-2-1",
-      "item-1-0"
-    ]
+    "expandedKeys": []
   },
   "3_file_IO.md": {
     "scroll": 5.286729857819905,
@@ -110,17 +107,26 @@
         "ch": 0
       }
     },
-    "expandedKeys": [
-      "item-2-1",
-      "item-1-0",
-      "item-2-21",
-      "item-1-20",
-      "item-2-33",
-      "item-2-43",
-      "item-2-46"
-    ]
+    "expandedKeys": []
   },
   "动态库与静态库.md": {
+    "scroll": 155.74776785714286,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-1-8"
+    ]
+  },
+  "进程.md": {
     "scroll": 0,
     "cursor": {
       "from": {
@@ -132,6 +138,8 @@
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-2"
+    ]
   }
 }
